@@ -1,0 +1,15 @@
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\bin\Debug\net8.0\Task3-Interfaces.exe
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\bin\Debug\net8.0\Task3-Interfaces.deps.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\bin\Debug\net8.0\Task3-Interfaces.runtimeconfig.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\bin\Debug\net8.0\Task3-Interfaces.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\bin\Debug\net8.0\Task3-Interfaces.pdb
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.AssemblyInfo.cs
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.sourcelink.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\refint\Task3-Interfaces.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.pdb
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\Task3-Interfaces.genruntimeconfig.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task3-Interfaces\obj\Debug\net8.0\ref\Task3-Interfaces.dll
