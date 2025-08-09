@@ -1,0 +1,15 @@
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\bin\Debug\net8.0\Task2-AbstractClasses.exe
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\bin\Debug\net8.0\Task2-AbstractClasses.deps.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\bin\Debug\net8.0\Task2-AbstractClasses.runtimeconfig.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\bin\Debug\net8.0\Task2-AbstractClasses.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\bin\Debug\net8.0\Task2-AbstractClasses.pdb
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.AssemblyInfo.cs
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.sourcelink.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\refint\Task2-AbstractClasses.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.pdb
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\Task2-AbstractClasses.genruntimeconfig.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task2-AbstractClasses\obj\Debug\net8.0\ref\Task2-AbstractClasses.dll
