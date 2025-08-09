@@ -1,0 +1,14 @@
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\bin\Debug\net8.0\Task1-Inheritance.exe
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\bin\Debug\net8.0\Task1-Inheritance.deps.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\bin\Debug\net8.0\Task1-Inheritance.runtimeconfig.json
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\bin\Debug\net8.0\Task1-Inheritance.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\bin\Debug\net8.0\Task1-Inheritance.pdb
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\Task1-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\Task1-Inheritance.AssemblyInfoInputs.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\Task1-Inheritance.AssemblyInfo.cs
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\Task1-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\Task1-Inheritance.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\refint\Task1-Inheritance.dll
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\Task1-Inheritance.pdb
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\Task1-Inheritance.genruntimeconfig.cache
+C:\Users\vaio\Desktop\SEM2\DCIT318\dcit318-assignment2-11115960\Task1-Inheritance\obj\Debug\net8.0\ref\Task1-Inheritance.dll
